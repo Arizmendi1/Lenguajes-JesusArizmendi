@@ -3,11 +3,7 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
-<<<<<<< HEAD
-            <name>HerenciaSuper</name>
-=======
-            <name>Encapsulamiento</name>
->>>>>>> origin/master
+            <name>Arizmendi</name>
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
